@@ -16,5 +16,5 @@ The contents of this Cheatsheet are:
 10. [Horizontal Rule]()
 11. [Diagrams]()
 12. [Mathematical expressions]()
-13. [Emojis]()
+13. [Emojis](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/emojis.MARKDOWN)
 14. [Miscellaneous]()
