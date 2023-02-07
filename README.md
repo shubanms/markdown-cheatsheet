@@ -12,8 +12,8 @@ The contents of this Cheatsheet are:
 6. Links
 7. Images
 8. Lists
-9. Buttons (6 January 2023)
+9. Buttons
 10. Horizontal Rule
-11. Diagrams (19 July 2022)
-12. Mathematical expressions (19 July 2022)
+11. Diagrams
+12. Mathematical expressions
 13. Miscellaneous
