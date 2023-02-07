@@ -39,6 +39,6 @@ Let’s see how it looks on GitHub.
 #### Heading 4
 ##### Heading 5
 
-[Back to top :top:](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/heading.md/#top)
+[Back to top :top:](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/heading.MARKDOWN/#top)
 
 [Back to main page](https://github.com/shubanms/markdown-cheatsheet)

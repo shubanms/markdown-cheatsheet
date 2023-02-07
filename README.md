@@ -4,7 +4,7 @@ A beginner markdown cheatsheet
 
 The contents of this Cheatsheet are:
 
-1. [Headings](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/heading.md)
+1. [Headings](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/heading.MARKDOWN)
 2. Text styles
 3. Syntax Highlighting
 4. Alignments
