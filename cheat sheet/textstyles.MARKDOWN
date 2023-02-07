@@ -122,3 +122,7 @@ Let’s see how it looks on GitHub.
 
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+
+[Back to top :top:](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/textstyles.MARKDOWN/#top)
+
+[Back to main page](https://github.com/shubanms/markdown-cheatsheet)
