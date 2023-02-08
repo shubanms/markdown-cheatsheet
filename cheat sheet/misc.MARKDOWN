@@ -74,7 +74,7 @@ After escaping.
 \_   Underscore
 
 
-We can also include [emojis]((https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/emojis.MARKDOWN) in our `.md` file.
+We can also include [emojis](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/emojis.MARKDOWN) in our `.md` file.
 
 ```
 :octocat:
