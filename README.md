@@ -7,7 +7,7 @@ The contents of this Cheatsheet are:
 1. [Headings](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/heading.MARKDOWN)
 2. [Text styles](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/textstyles.MARKDOWN)
 3. [Syntax Highlighting](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/syntaxhighlighting.MARKDOWN)
-4. [Alignments]()
+4. [Alignments](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/alignments.MARKDOWN)
 5. [Tables]()
 6. [Links]()
 7. [Images]()
