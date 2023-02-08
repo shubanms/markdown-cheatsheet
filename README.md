@@ -11,7 +11,7 @@ The contents of this Cheatsheet are:
 5. [Tables](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/tables.MARKDOWN)
 6. [Links](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/links.MARKDOWN)
 7. [Images](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/images.MARKDOWN)
-8. [Lists]()
+8. [Lists](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/lists.MARKDOWN)
 9. [Buttons]()
 10. [Horizontal Rule]()
 11. [Diagrams]()
