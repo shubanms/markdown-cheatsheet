@@ -10,7 +10,7 @@ The contents of this Cheatsheet are:
 4. [Alignments](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/alignments.MARKDOWN)
 5. [Tables](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/tables.MARKDOWN)
 6. [Links](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/links.MARKDOWN)
-7. [Images]()
+7. [Images](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/images.MARKDOWN)
 8. [Lists]()
 9. [Buttons]()
 10. [Horizontal Rule]()
