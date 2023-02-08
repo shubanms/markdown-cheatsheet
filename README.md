@@ -17,4 +17,4 @@ The contents of this Cheatsheet are:
 11. [Diagrams](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/diagrams.MARKDOWN)
 12. [Mathematical expressions](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/mathexpressions.MARKDOWN)
 13. [Emojis](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/emojis.MARKDOWN)
-14. [Miscellaneous]()
+14. [Miscellaneous](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/misc.MARKDOWN)
