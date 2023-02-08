@@ -35,10 +35,10 @@ By using HTML tags, we can align README contents.
 Let’s align a text.
 
 ```
-<h3 align="center"> My latest Medium posts </h3>
+<h3 align="center"> My latest posts </h3>
 ```
 
-<h3 align="center"> My latest Medium posts </h3>
+<h3 align="center"> My latest posts </h3>
 
 [Back to top :top:](https://github.com/shubanms/markdown-cheatsheet/blob/main/cheat%20sheet/alignments.MARKDOWN/#top)
 
